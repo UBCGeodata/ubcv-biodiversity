@@ -14,6 +14,8 @@ This file was prepared as part of a SEEDS Sustainability project titled “Mappi
 
 The file contains ten habitat classifications identified on the UBC Vancouver campus. These include (1) deciduous forest, (2) mixed wood forest, (3) coniferous forest, (4) park, (5) urban park, (6) old field, (7) urban old field, (8) hedgerow, (9) meadow, (10) freshwater wetland.
 
+For more detail, please reference the project’s [final report](https://sustain.ubc.ca/sites/sustain.ubc.ca/files/seedslibrary/Habitat Mapping Report_Caylee Dyck_Apr 7_0.pdf)
+
 ### Files Provided
 * Habitat_Classification.zip - A zipped shapefile of the habitat classifications.
 * ubcv_habitat_classification.geojson - Same data in geojson format appropriate for viewing in github.
